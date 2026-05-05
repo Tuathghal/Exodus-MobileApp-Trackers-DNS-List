@@ -408,8 +408,6 @@
 ||log.mobpowertech.com^
 ||mobpowertech.com^
 ||scheme.mobpowertech.com^
-||login.microsoftonline.com^
-||management.azure.com^
 ||mobvista.com^
 ||moodpresence.com^
 ||nativex.com^
