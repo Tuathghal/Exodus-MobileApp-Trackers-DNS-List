@@ -270,7 +270,6 @@
 ||mng-ads.com^
 ||firebase.com^
 ||firebaselogging-pa.googleapis.com^
-||play.google.com^
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
 ||www-googletagmanager.l.google.com^
