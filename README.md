@@ -31,6 +31,8 @@ id: 2
 
 . . .
 
+  - enabled: true  
+
 url: https://raw.githubusercontent.com/Tuathghal/Exodus-MobileApp-Trackers-DNS-List/refs/heads/main/Trackers-Cleaned.txt
 
 name: Tuathghal's Exdous Mobile App Tracker DNS blocklist
