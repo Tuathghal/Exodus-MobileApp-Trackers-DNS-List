@@ -719,3 +719,5 @@
 ||mparticle.com^
 ||target.my.com^
 ||tracker-api.my.com^
+# RenevueCat Fallback: https://community.revenuecat.com/general-questions-7/is-8-lives-cat-io-a-legitimate-revenuecat-domain-7198
+||api-production.8-lives-cat.io^
